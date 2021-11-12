@@ -1,0 +1,22 @@
+.listJob-content{
+    width: 317px;
+    height: 240px;
+    margin: 20px 0px;
+    .image-work-list-job{
+        width: 317px;
+        height: 240px;
+        margin: 30px auto 20px;
+        img{
+            height: 100%;
+            width: 100%;
+        }
+        
+    }
+}
+.title-name{
+    &:hover{
+        color: red;
+    }
+}
+
+ 

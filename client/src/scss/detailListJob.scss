@@ -1,0 +1,38 @@
+.DetailWork-Company{
+    h3{
+        text-align: center;
+    }
+    .DetailWork-Company-Img{
+        img{
+            height: 100%;
+            width: 100%;
+        }
+    }
+    .Item{
+        margin: 13px 0px;
+    }
+    .DetailWork-Company-Item-Left{
+        float: left;
+    }
+    .DetailWork-Company-Item-right{
+        float: right;
+        // padding-left: 50px;
+    }
+}
+.DetailWork-Work{
+    .DetailWork-Work-nameWork{
+        h3{
+            text-align: center;
+        }
+    }
+    .DetailWork-Work-experience{
+        span{
+            text-align: left;
+        }
+    }
+    .Deatil-Work-Apply{
+        button{
+            width: 540px;
+        }
+    }
+}

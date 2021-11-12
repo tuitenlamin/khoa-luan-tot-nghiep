@@ -1,0 +1,33 @@
+.Content-News{
+    .Content-company{
+        h3{
+            line-height: 27px;
+            text-decoration: none;
+            color: #57595b;
+            font-size: 20px;
+            text-align: center;
+            &:hover{
+                color: red;
+            } 
+        }
+    }
+    .Content-title{
+        text-align: center;
+        margin: 20px 0px;
+        
+        &:hover{
+            color: red;
+        } 
+    }
+    .Content-content{
+        &:hover{
+            color: red;
+        } 
+    }
+    .Content-images{
+        height: 190px;
+        width: 100%;
+    }
+
+
+}

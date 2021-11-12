@@ -1,0 +1,49 @@
+#Login {
+    color: white;
+    height: 773px;
+    position: relative;
+      .Login-Left {
+        margin-top: 190px;
+        background-image: url(../Componen/Img/uv_bg.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        width: 47%;
+        padding: 20px;
+        background: rgba(255,255,255,.65);
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        border-radius: 5px;
+        margin-right: 5%;
+        margin-right: 5%;
+        margin-left: 24px;
+        float: left;
+        background-color: rgb(169,169,169);
+      }
+      .Login-Right {
+        margin-top: 190px;
+        background-image: url(../Componen/Img/ntd_bg.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        width: 47%;
+        padding: 20px;
+        background: rgba(255,255,255,.65);
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        border-radius: 5px; 
+        background-color: rgb(169,169,169);
+      } 
+  .h1 {
+    font-size: 26px;
+    margin-bottom: 13px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .p{
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+  }
+}

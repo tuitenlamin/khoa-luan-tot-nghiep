@@ -1,0 +1,32 @@
+#Register-User{
+    margin-left: 552px;
+    margin-top: 21px;
+    form{
+        background-color: #fff;
+        // padding: 30px 115px;
+        border-radius: 15px;
+        box-shadow: 0 4px 20px black;
+        border-radius: 15px;
+        .userForm-Img-Icon{
+            width: 128px;
+            display: block;
+            margin: 0 auto 10px;
+            border-radius: 8px;
+            border: dashed 2px #ccc;
+            font-size: 100px;
+        }
+        .Right-form-user{
+            margin-top: 136px;
+        }
+        .userForm-Img{
+            padding-left: 167px;
+        }
+    }
+    .Register-form{
+        margin-left: 36px;
+    }
+    .btn-MovePage{
+        text-decoration: none;
+    }
+}
+

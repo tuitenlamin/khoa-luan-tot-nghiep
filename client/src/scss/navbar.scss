@@ -1,0 +1,21 @@
+.Navbar-Icon{
+    color: white;
+    &:hover{
+        color: chartreuse;
+    }
+}
+.Navbar-title{
+    color: white;
+    text-decoration: none;
+    &:hover{
+        color: chartreuse;
+    }
+}
+.Navbar-Img{
+    height: 41px;
+    width: 45px;
+}
+.Navbar-span{
+    margin-left: 3px;
+    color: white;
+}

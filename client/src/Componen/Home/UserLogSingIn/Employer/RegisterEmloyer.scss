@@ -1,0 +1,27 @@
+
+.RegisterEmloyer-bg{
+    .Register-Emloyer{
+        margin-left: 409px;
+        form{
+            background-color: #fff;
+            padding: 30px 115px;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px black;
+            float: left;
+        }
+        .userForm-Img-Icon{
+            width: 128px;
+            display: block;
+            margin: 0 auto 10px;
+            border-radius: 8px;
+            border: dashed 2px #ccc;
+            font-size: 100px;
+        }
+        .Left-form .Right-form{
+            float: left;
+        }
+        .btn-MovePage{
+            text-decoration: none;
+        }
+    }
+}
